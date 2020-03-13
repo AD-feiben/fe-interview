@@ -225,6 +225,6 @@ mounted(){
 
 欢迎关注公众号【前端develop】
 
-<img src="../img/qrcode.png" width="400px">
+<img src="../img/wechat-publicity.png" width="400px">
 
 

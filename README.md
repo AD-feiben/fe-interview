@@ -16,7 +16,7 @@ fe-interview 是前端面试题的仓库，创建该仓库的目的是为了提�
 
 欢迎关注公众号【前端develop】
 
-<img src="./img/qrcode.png" width="400px">
+<img src="./img/wechat-publicity.png" width="400px">
 
 
 ## 题目分类
