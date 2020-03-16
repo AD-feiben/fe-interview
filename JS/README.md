@@ -105,6 +105,7 @@ callback(data);
 
 ### Promise
 
+[【面试题解析】手动实现Promise](http://www.fedevelop.cn/views/%E5%89%8D%E7%AB%AF/2020/%E3%80%90%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3%E6%9E%90%E3%80%91%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0%20Promise.html)
 
 
 ## 交流讨论
