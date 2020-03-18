@@ -18,6 +18,7 @@
 - [其他](#其他)
   - [组件中 data 为什么是一个函数，而 new Vue 实例里，data 可以直接是一个对象？](#组件中-data-为什么是一个函数而-new-vue-实例里data-可以直接是一个对象)
   - [样式加 scoped 与不加 scoped 的区别? 以及scoped 的实现原理](#样式加-scoped-与不加-scoped-的区别-以及scoped-的实现原理)
+  - [computed 的实现原理](#computed-的实现原理)
 - [交流讨论](#交流讨论)
 
 <!-- /TOC -->
@@ -221,6 +222,10 @@ mounted(){
 > 而 new Vue 的实例不存在被复用的问题
 
 ### 样式加 scoped 与不加 scoped 的区别? 以及scoped 的实现原理
+
+### computed 的实现原理
+
+[分析 computed 的实现，发现 Vue 官方隐藏的小彩蛋](https://www.fedevelop.cn/views/%E5%89%8D%E7%AB%AF/2020/%E5%88%86%E6%9E%90%20computed%20%E7%9A%84%E5%AE%9E%E7%8E%B0%EF%BC%8C%E5%8F%91%E7%8E%B0%20Vue%20%E5%AE%98%E6%96%B9%E9%9A%90%E8%97%8F%E7%9A%84%E5%B0%8F%E5%BD%A9%E8%9B%8B.html)
 
 
 ## 交流讨论
