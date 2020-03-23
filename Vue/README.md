@@ -183,7 +183,7 @@ mounted(){
 
 ### 双向绑定的原理
 
-【【面试题解析✨】Vue 的数据是如何渲染到页面的？】(https://www.fedevelop.cn/views/%E5%89%8D%E7%AB%AF/2020/%E3%80%90%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3%E6%9E%90%E2%9C%A8%E3%80%91Vue%20%E7%9A%84%E6%95%B0%E6%8D%AE%E6%98%AF%E5%A6%82%E4%BD%95%E6%B8%B2%E6%9F%93%E5%88%B0%E9%A1%B5%E9%9D%A2%E7%9A%84%EF%BC%9F.html)
+[【面试题解析✨】Vue 的数据是如何渲染到页面的？](https://www.fedevelop.cn/views/%E5%89%8D%E7%AB%AF/2020/%E3%80%90%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3%E6%9E%90%E2%9C%A8%E3%80%91Vue%20%E7%9A%84%E6%95%B0%E6%8D%AE%E6%98%AF%E5%A6%82%E4%BD%95%E6%B8%B2%E6%9F%93%E5%88%B0%E9%A1%B5%E9%9D%A2%E7%9A%84%EF%BC%9F.html)
 
 ## 路由
 
